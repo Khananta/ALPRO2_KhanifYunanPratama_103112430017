@@ -329,6 +329,7 @@ func main() {
 
 }
 ```
+![Output](output/2B/soal3.png)
 
 Program ini digunakan untuk mengecek keseimbangan sepeda motor Pak Andi saat membawa belanjaan dalam dua kantong. Sepeda motor dianggap oleng jika perbedaan berat antara kantong kiri dan kanan 9 kg atau lebih. Program juga akan berhenti jika:
 - Salah satu kantong memiliki berat negatif.
