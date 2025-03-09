@@ -152,7 +152,7 @@ Ketika program diatas dijalankan, maka program akan meminta pengguna untuk memas
 2. Menggunakan rumus g(h(f(x1)))
 3. Menggunakan rumus h(f(g(x1)))
 
-##### Fungsi g
+##### Fungsi f
 ```go
 func f(x int) int {
 	var rumus int
