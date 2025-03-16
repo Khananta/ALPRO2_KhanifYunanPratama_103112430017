@@ -231,8 +231,7 @@ bernilai 1. Sebagai contoh jika dimulai dengan n=22, maka deret bilangan yang di
 adalah:
 22 11 34 17 52 26 13 40 20 10 5 16 8 4 2 1
 Untuk suku awal sampai dengan 1000000, diketahui deret selalu mencapai suku dengan nilai
-1.
-Buat program skiena yang akan mencetak setiap suku dari deret yang dijelaskan di atas untuk
+1. Buat program skiena yang akan mencetak setiap suku dari deret yang dijelaskan di atas untuk
 nilai suku awal yang diberikan. Pencetakan deret harus dibuat dalam prosedur cetakDeret
 yang mempunyai 1 parameter formal, yaitu nilai dari suku awal.
 prosedure cetakDeret(in n : integer )
