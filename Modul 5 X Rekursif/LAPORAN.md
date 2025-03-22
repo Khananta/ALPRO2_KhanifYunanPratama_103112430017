@@ -160,6 +160,24 @@ Prosedur `pola(n, baris)` adalah prosedur rekursif yang mencetak pola segitiga b
 ### Soal 3
 > Buatlah program yang mengimplementasikan rekursif untuk menampilkan faktor bilangan dari suatu N, atau bilangan yang apa saja yang habis membagi N. Masukan terdiri dari sebuah bilangan bulat positif N. Keluaran terdiri dari barisan bilangan yang menjadi faktor dari N (terurut dari 1 hingga N ya).
 
+<table border="1">
+  <tr>
+    <th>No</th>
+    <th>Masukan</th>
+    <th>Keluaran</th>
+  </tr>
+  <tr>
+    <td>1</td>
+    <td>5</td>
+    <td>1 5</td>
+  </tr>
+  <tr>
+    <td>2</td>
+    <td>12</td>
+    <td>1 2 3 4 6 12</td>
+  </tr>
+</table>
+
 ```go
 package main
 
