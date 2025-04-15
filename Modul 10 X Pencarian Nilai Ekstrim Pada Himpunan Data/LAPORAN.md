@@ -59,7 +59,7 @@ func main() {
 	}
 }
 ```
-![](Modul%2010%20X%20Pencarian%20Nilai%20Ekstrim%20Pada%20Himpunan%20Data/output/gambar1.png)
+![](output/gambar1.png)
 ##### Penjelasan
 Program ini dimulai dengan meminta pengguna memasukkan jumlah data kelinci yang akan diinputkan. Jika jumlah data melebihi 1000, program akan menghentikan proses dan menampilkan peringatan. Jika valid, program akan mengumpulkan data sebanyak yang dimasukkan melalui fungsi dataKelinci, lalu mencari nilai terbesar dan terkecil dari data tersebut menggunakan fungsi sortirKelinci. Hasil pencarian nilai maksimum dan minimum kemudian ditampilkan kepada pengguna.
 
@@ -128,7 +128,7 @@ func main() {
 	}
 }
 ```
-![](Modul%2010%20X%20Pencarian%20Nilai%20Ekstrim%20Pada%20Himpunan%20Data/output/gambar2.png)
+![](output/gambar2.png)
 ##### Penjelasan
 Ketika program ini dijalankan, pertama-tama pengguna akan diminta untuk memasukkan dua buah angka: jumlah data ikan (x) dan jumlah data per kelompok (y). Program kemudian meminta input berat ikan sebanyak x kali, yang disimpan dalam array arrIkan. Setelah semua data dimasukkan, program akan membagi data ke dalam kelompok-kelompok dengan masing-masing berisi maksimal y data. Setiap kelompok akan dihitung total beratnya, lalu semua total itu dirata-ratakan. Akhirnya, program akan menampilkan total dari masing-masing kelompok dan nilai rata-rata total tersebut.
 
