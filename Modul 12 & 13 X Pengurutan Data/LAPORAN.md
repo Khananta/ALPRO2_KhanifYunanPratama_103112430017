@@ -272,7 +272,7 @@ func main() {
 ```
 ![](output/unguided/gambar2.png)
 ### Penjelasan
-Program ini merupakan lanjutan dari program sebelumnya yang dimodifikasi agar Hercules hanya perlu menyeberang jalan sesedikit mungkin. Setiap nomor rumah yang dimasukkan akan dipisah menjadi dua: ganjil dan genap. Nomor ganjil diurutkan naik (menaik), sedangkan nomor genap diurutkan turun (menurun) menggunakan algoritma selection sort. Setelah diurutkan, keduanya digabung dan ditampilkan per daerah: ganjil dulu, lalu genap. Tujuannya agar urutan kunjungan mengikuti sisi jalan yang sama lebih dulu sebelum menyeberang.
+Program ini merupakan lanjutan dari program sebelumnya yang dimodifikasi agar Hercules hanya perlu menyeberang jalan sesedikit mungkin. Setiap nomor rumah yang dimasukkan akan dipisah menjadi dua yaitu ganjil dan genap. Nomor ganjil diurutkan naik (menaik), sedangkan nomor genap diurutkan turun (menurun) menggunakan algoritma selection sort. Setelah diurutkan, keduanya digabung dan ditampilkan per daerah: ganjil dulu, lalu genap. Tujuannya agar urutan kunjungan mengikuti sisi jalan yang sama lebih dulu sebelum menyeberang.
 
 ---
 ## Soal 3
